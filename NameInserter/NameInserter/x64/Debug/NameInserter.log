@@ -1,0 +1,4 @@
+﻿  NameInserter.cpp
+Z:\Github\GEC-2023\NameInserter\NameInserter\NameInserter.cpp(17,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Z:\Github\GEC-2023\NameInserter\NameInserter\NameInserter.cpp(29,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  NameInserter.vcxproj -> Z:\Github\GEC-2023\NameInserter\x64\Debug\NameInserter.exe
